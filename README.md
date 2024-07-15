@@ -95,7 +95,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you have any questions or feedback, please reach out:
 
-- Your Name - [your.email@example.com](mailto:your.email@example.com)
+- Your Name - [your.email@example.com](mailto:Miehlav)
 - Project Link: [https://github.com/yourusername/ultimate-wikipedia-crawler](https://github.com/yourusername/ultimate-wikipedia-crawler)
 
 ---
