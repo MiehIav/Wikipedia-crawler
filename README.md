@@ -91,13 +91,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## 📬 Contact
-
-If you have any questions or feedback, please reach out:
-
-- Your Name - [your.email@example.com](mailto:Miehlav)
-- Project Link: [https://github.com/yourusername/ultimate-wikipedia-crawler](https://github.com/yourusername/ultimate-wikipedia-crawler)
-
 ---
 
 Happy crawling! 🕷️📚
