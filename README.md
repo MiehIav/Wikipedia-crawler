@@ -27,8 +27,8 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ultimate-wikipedia-crawler.git
-   cd ultimate-wikipedia-crawler
+   git clone https://github.com/MiehIav/Wikipedia-crawler.git
+   cd Wikipedia-crawler
    ```
 
 2. Set up a virtual environment:
